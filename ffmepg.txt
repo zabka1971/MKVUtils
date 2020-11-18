@@ -1,0 +1,1 @@
+ffmpeg -ss 00:00:00.000 -t 00:08:29.000 -i "Masha and the Bear - s03e23.mkv" -vcodec copy -acodec copy "Masha and the Bear - s03e23_cut.mkv"
